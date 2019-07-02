@@ -5,3 +5,4 @@ My Codewars solutions of 7th level
 *[x] Difference Of Squares
 *[x] Disarium Number
 *[x] Discover The Original Price
+*[x] Get list sum recursively
