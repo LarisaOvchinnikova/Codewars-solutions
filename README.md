@@ -4,3 +4,4 @@ My Codewars solutions of 7th level
 *[x] Return the Missing Elements
 *[x] Difference Of Squares
 *[x] Disarium Number
+*[x] Discover The Original Price
