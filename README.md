@@ -8,3 +8,4 @@ My Codewars solutions of 7th level
 *[x] Get list sum recursively
 *[x] Club Doorman
 *[x] Remove anchor from URL
+*[x] Reverse words
