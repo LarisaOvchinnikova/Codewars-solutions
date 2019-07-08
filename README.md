@@ -9,3 +9,4 @@ My Codewars solutions of 7th level
 *[x] Club Doorman
 *[x] Remove anchor from URL
 *[x] Reverse words
+*[x] Array Array Array
