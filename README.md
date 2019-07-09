@@ -10,3 +10,4 @@
 * [x] Remove anchor from URL
 * [x] Reverse words
 * [x] Array Array Array
+* [x] Descending Order
