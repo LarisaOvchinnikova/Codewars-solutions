@@ -14,3 +14,5 @@
 * [x] Volume of a cup
 * [x] Simple Fun #152: Invite More Women?
 * [x] Maximum Product
+* [x] Who's Online?
+* [x] Player Contact Manager
