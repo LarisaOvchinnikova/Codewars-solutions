@@ -1,3 +1,8 @@
+/*
+The Office I - Outed
+https://www.codewars.com/kata/the-office-i-outed/train/javascript
+*/
+
 function outed(meet, boss){
 let s = meet[boss];
 for (let i in meet){
