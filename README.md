@@ -17,3 +17,4 @@
 * [x] Who's Online?
 * [x] Player Contact Manager
 * [x] Exes and Ohs
+* [x] The Office I - Outed (object)
