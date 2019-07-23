@@ -19,3 +19,4 @@
 * [x] Exes and Ohs
 * [x] The Office I - Outed (object)
 * [x] Nth Smallest Element (Array Series #4)
+* [x] Form The Largest
