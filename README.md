@@ -21,3 +21,4 @@
 * [x] Nth Smallest Element (Array Series #4)
 * [x] Form The Largest
 * [x] Sum of a Beach
+* [x] Maximum Multiple
