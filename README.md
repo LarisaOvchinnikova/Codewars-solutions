@@ -23,3 +23,4 @@
 * [x] Sum of a Beach
 * [x] Maximum Multiple
 * [x] Nice array
+* [x] Diagonals sum
