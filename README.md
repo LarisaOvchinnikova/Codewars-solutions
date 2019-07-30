@@ -22,3 +22,4 @@
 * [x] Form The Largest
 * [x] Sum of a Beach
 * [x] Maximum Multiple
+* [x] Nice array
