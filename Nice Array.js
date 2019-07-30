@@ -3,6 +3,7 @@ Nice Array
 https://www.codewars.com/kata/nice-array/train/javascript
 */
 function isNice(a){
+ if (a.length === 0) return false;
  let fl;
  for (let i = 0; i < a.length; i++){
    fl = 0;
