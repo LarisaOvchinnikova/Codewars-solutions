@@ -24,3 +24,4 @@
 * [x] Maximum Multiple
 * [x] Nice array
 * [x] Diagonals sum
+* [x] Extra Perfect Numbers (Special Numbers Series #7)
