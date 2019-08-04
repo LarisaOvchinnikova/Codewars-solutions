@@ -27,3 +27,4 @@
 * [x] Extra Perfect Numbers (Special Numbers Series #7)
 * [x] Minimum Steps 
 * [x] Return the first M multiples of N
+* [x] Easy wallpaper
