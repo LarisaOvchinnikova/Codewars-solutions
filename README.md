@@ -29,3 +29,4 @@
 * [x] Return the first M multiples of N
 * [x] Easy wallpaper
 * [x] Bin to Hex and back
+* [x] Recursion #1 - Factorial
