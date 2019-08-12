@@ -32,3 +32,4 @@
 * [x] Recursion #1 - Factorial
 * [x] Recursion #2 - Fibonacci
 * [x] Driving Licence
+* [x] Incrementer
