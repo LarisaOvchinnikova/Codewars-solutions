@@ -34,3 +34,4 @@
 * [x] Driving Licence
 * [x] Incrementer
 * [x] Growth of a Population
+* [x] A Rule of Divisibility by 7
