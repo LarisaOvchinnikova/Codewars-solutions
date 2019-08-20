@@ -37,3 +37,4 @@
 * [x] A Rule of Divisibility by 7
 * [x] Get the Middle Character
 * [x] Drying Potatoes
+* [x] Numerical Palindrome #1
