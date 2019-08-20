@@ -36,3 +36,4 @@
 * [x] Growth of a Population
 * [x] A Rule of Divisibility by 7
 * [x] Get the Middle Character
+* [x] Drying Potatoes
