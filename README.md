@@ -39,3 +39,4 @@
 * [x] Drying Potatoes
 * [x] Numerical Palindrome #1
 * [x] Covfefe
+* [x] Two to One
