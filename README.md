@@ -40,3 +40,4 @@
 * [x] Numerical Palindrome #1
 * [x] Covfefe
 * [x] Two to One
+* [x] Simple Fun #176: Reverse Letter
