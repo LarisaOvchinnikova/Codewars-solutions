@@ -38,3 +38,4 @@
 * [x] Get the Middle Character
 * [x] Drying Potatoes
 * [x] Numerical Palindrome #1
+* [x] Covfefe
