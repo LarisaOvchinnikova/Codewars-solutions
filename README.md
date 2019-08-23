@@ -41,4 +41,4 @@
 * [x] Covfefe
 * [x] Two to One
 * [x] Simple Fun #176: Reverse Letter
-* [x] the missed lectures
+* [x] Failed Filter - Bug Fixing #3
