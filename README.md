@@ -43,3 +43,4 @@
 * [x] Simple Fun #176: Reverse Letter
 * [x] Failed Filter - Bug Fixing #3
 * [x] Larger Product or Sum
+* [x] Odder Than the Rest
