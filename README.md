@@ -45,3 +45,4 @@
 * [x] Larger Product or Sum
 * [x] Odder Than the Rest
 * [x] Numbers with d occurences of digit d
+* [x] Find Screen Size
