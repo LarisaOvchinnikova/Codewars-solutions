@@ -47,3 +47,4 @@
 * [x] Numbers with d occurences of digit d
 * [x] Find Screen Size
 * [x] Greatest common divisor
+* [x] Help the Fruit Guy
