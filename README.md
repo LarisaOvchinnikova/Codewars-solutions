@@ -49,3 +49,4 @@
 * [x] Greatest common divisor
 * [x] Help the Fruit Guy
 * [x] Is today's data a palindrome?
+* [x] Password validator
