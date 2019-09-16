@@ -51,3 +51,4 @@
 * [x] Is today's data a palindrome?
 * [x] Password validator
 * [x] Spacify
+* [x] Functions of Integers on Cartesian Plane
