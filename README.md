@@ -52,3 +52,4 @@
 * [x] Password validator
 * [x] Spacify
 * [x] Functions of Integers on Cartesian Plane
+* [x] Array comparator
