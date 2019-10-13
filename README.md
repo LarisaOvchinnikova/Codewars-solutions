@@ -56,3 +56,4 @@
 * [x] Deodorant Evaporator
 * [x] Squares sequence
 * [x] The wheat/rice and chessboard problem
+* [x] Highest and Lowest
