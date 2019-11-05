@@ -57,3 +57,4 @@
 * [x] Squares sequence
 * [x] The wheat/rice and chessboard problem
 * [x] Highest and Lowest
+* [x] Breaking chocolate problem
