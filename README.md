@@ -61,4 +61,5 @@
 * [x] Is every value in the array an array?
 * [x] Thinking & Testing: A and B?
 * [x] Numbers to Letters
+* [x] Thinking & Testing : Something capitalized
 
