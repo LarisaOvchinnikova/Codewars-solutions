@@ -59,4 +59,6 @@
 * [x] Highest and Lowest
 * [x] Breaking chocolate problem
 * [x] Is every value in the array an array?
+* [x] Thinking & Testing: A and B?
+
 
