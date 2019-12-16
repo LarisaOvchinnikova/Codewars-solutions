@@ -62,5 +62,5 @@
 * [x] Thinking & Testing: A and B?
 * [x] Numbers to Letters
 * [x] Thinking & Testing : Something capitalized
-
+* [x] Divide and Conquer
 
