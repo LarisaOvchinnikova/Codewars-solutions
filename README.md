@@ -58,3 +58,5 @@
 * [x] The wheat/rice and chessboard problem
 * [x] Highest and Lowest
 * [x] Breaking chocolate problem
+* [x] Is every value in the array an array?
+
