@@ -67,3 +67,4 @@
 * [x] Is your period late?
 * [x] Simple Fun #87: Shuffled Array
 * [x] Sort array by string length
+* [x] Most digits
