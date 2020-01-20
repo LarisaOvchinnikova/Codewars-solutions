@@ -69,3 +69,4 @@
 * [x] Sort array by string length
 * [x] Most digits
 * [x] Sum of numbers from 0 to N
+* [x] Check your arguments
