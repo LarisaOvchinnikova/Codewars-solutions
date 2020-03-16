@@ -72,3 +72,4 @@
 * [x] Check your arguments
 * [x] Array element parity
 * [x] Number-Star ladder
+* [x] Dominant array elements
