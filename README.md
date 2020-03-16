@@ -71,3 +71,4 @@
 * [x] Sum of numbers from 0 to N
 * [x] Check your arguments
 * [x] Array element parity
+* [x] Number-Star ladder

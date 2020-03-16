@@ -1,5 +1,5 @@
-//Number-Star ladder
-//https://www.codewars.com/kata/5631213916d70a0979000066
+//
+/Number-Star ladder/https://www.codewars.com/kata/5631213916d70a0979000066
 
 function pattern(n){
  let output="1\n";
