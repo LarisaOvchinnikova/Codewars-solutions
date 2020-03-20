@@ -73,3 +73,4 @@
 * [x] Array element parity
 * [x] Number-Star ladder
 * [x] Dominant array elements
+* [x] Ironman Triathlon
