@@ -74,3 +74,4 @@
 * [x] Number-Star ladder
 * [x] Dominant array elements
 * [x] Ironman Triathlon
+* [x] Work out is it falsy or truthy?
