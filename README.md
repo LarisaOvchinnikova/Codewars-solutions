@@ -75,3 +75,4 @@
 * [x] Dominant array elements
 * [x] Ironman Triathlon
 * [x] Work out is it falsy or truthy?
+* [x] Jaden Casing Strings
