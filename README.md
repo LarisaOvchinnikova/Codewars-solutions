@@ -77,3 +77,4 @@
 * [x] Work out is it falsy or truthy?
 * [x] Jaden Casing Strings
 * [x] The highest profit wins!
+* [x] Order of weight
