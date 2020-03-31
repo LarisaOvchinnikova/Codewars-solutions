@@ -79,3 +79,4 @@
 * [x] The highest profit wins!
 * [x] Order of weight
 * [x] Enumerable Magic #5- True for Just One?
+* [x] Rock Off!
