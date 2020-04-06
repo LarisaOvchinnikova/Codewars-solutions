@@ -80,3 +80,4 @@
 * [x] Order of weight
 * [x] Enumerable Magic #5- True for Just One?
 * [x] Rock Off!
+* [x] Find the Middle of the Product
