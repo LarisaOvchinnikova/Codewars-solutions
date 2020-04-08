@@ -7,3 +7,11 @@ for (let i in list){
 }
 return list
 }
+
+// 2 case
+function greetDevelopers(list) {
+ list.forEach(function(el){
+   el.greeting = `Hi ${el.firstName}, what do you like the most about ${el.language}?`;
+  })
+  return list;
+}
