@@ -83,3 +83,4 @@
 * [x] Find the Middle of the Product
 * [x] Responsible Drinking
 * [x] Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe
+* [x] Coding Meetup #2 - Higher-Order Functions Series - Greet developers
