@@ -81,3 +81,4 @@
 * [x] Enumerable Magic #5- True for Just One?
 * [x] Rock Off!
 * [x] Find the Middle of the Product
+* [x] Responsible Drinking
