@@ -1,0 +1,12 @@
+//https://www.codewars.com/kata/5750699bcac40b3ed80001ca
+
+function match(usefulness, months) {
+  let sum = usefulness.reduce((a,b)=>a+b,0);
+  let r = 100;
+  for (let month = 0; month <= months; month++){
+    if (sum >= r) return "Match!"
+    r -= 0.15 * r
+  }
+  return "No match!"
+}
+
