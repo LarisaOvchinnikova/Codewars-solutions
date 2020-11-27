@@ -1,0 +1,10 @@
+//https://www.codewars.com/kata/593406b8f3d071d83c00005d
+
+function countAnimals(sentence) {
+  let arr = sentence.split(" ");
+  let s = 0;
+  for( let el of arr){
+    if (!isNaN(el)) s = s + +el;
+  }
+  return s;
+}
