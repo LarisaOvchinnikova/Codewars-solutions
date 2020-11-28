@@ -1,0 +1,10 @@
+//https://www.codewars.com/kata/5a2809dbe1ce0e07f800004d
+function divisibleByLast(n) {
+  let arr = [false];
+  n = String(n).split("").map(Number);
+  for (let i = 1; i < n.length; i++){
+    arr.push(n[i] % n[i-1] === 0)
+  }
+  return arr
+}
+
