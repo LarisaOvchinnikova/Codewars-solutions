@@ -1,0 +1,6 @@
+// https://www.codewars.com/kata/549ae731a051e877fc000a86
+function isPalindrome(str) {
+  if (str === null) return false;
+  str = str.replace(/[^0-9a-zA-Z]/g, '').toLowerCase();
+  return str.split("").reverse().join('') === str;
+}
