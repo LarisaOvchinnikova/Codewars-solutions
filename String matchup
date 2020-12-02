@@ -1,0 +1,16 @@
+// https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4
+function solve(a,b){
+  let res = [];
+  let count;
+  for(let elB of b){
+    count = 0;
+    for (let elA of a){
+      if(elB === elA){
+        count++
+      }
+    }
+    res.push(count)
+  }
+  return res;
+}
+
