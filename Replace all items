@@ -1,0 +1,4 @@
+//https://www.codewars.com/kata/57ae18c6e298a7a6d5000c7a
+function replaceAll(seq, find, replace) {
+  return typeof seq === "string"? seq.split(find).join(replace) : seq.map(el=>el ===find? replace: el) ;
+}
