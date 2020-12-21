@@ -1,0 +1,6 @@
+// https://www.codewars.com/kata/56c19316e8b139dff60006da
+String.prototype.capitalize = function(){
+  let n = this.charCodeAt(0)
+  if (n >= 97 && n <= 122) n -= 32;
+  return String.fromCharCode(n) + this.slice(1)
+}
