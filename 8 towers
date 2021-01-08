@@ -1,0 +1,8 @@
+//https://www.codewars.com/kata/535bea76cdbf50281a00004c
+function towerCombination(n){
+  let f = 1;
+  for (let i = 1; i <= n; i++){
+    f *= i;
+  }
+  return f;
+}
