@@ -1,0 +1,16 @@
+//https://www.codewars.com/kata/57fb017d9610ce369a0006ac
+
+function removeOrAdd(s){
+  s = s.split(" ");
+  let res = [];
+  for (let i = 0; i < s.length; i++){
+    if (s[i].slice(-2) === "!!"){
+      res.push(s[i])
+    } else if (s[i].slice(-1) === "!"){
+      res.push(s[i].slice(0, -1))
+    } else {
+      res.push(s[i]+"!")
+    }
+  }
+  return res.join(" ")
+}
