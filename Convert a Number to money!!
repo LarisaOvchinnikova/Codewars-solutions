@@ -1,0 +1,13 @@
+//https://www.codewars.com/kata/54ad586282bc65b7ec000182
+
+var numberToMoney = function(n) {
+  let m = Math.trunc(n)+'';
+  n = String(Math.trunc(n * 100) / 100);
+  let cents = n.includes('.')? n.slice(n.indexOf(".")) : ''; 
+  let money = []
+  while (m.length > 0){
+    money.unshift(m.slice(-3))
+    m = m.slice(0,-3)
+  }
+  return money.join(",")+ cents
+};
