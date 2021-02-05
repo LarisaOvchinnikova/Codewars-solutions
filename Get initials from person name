@@ -1,0 +1,5 @@
+//https://www.codewars.com/kata/57b56af6b69bfcffb80000d7
+
+function toInitials(name) {
+  return name.split(' ').map(el=>el[0].toUpperCase() + '.').join(" ")
+}
