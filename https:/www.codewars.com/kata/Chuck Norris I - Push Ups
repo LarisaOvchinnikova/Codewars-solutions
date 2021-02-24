@@ -1,0 +1,6 @@
+//https://www.codewars.com/kata/570564e838428f2eca001d73
+function chuckPushUps(s) {
+  if (typeof s !== "string" || s === "") return "FAIL!!";
+  s = s.replace(/[^0-1 ]/g, "").split(' ').map(el=>Number.parseInt(el, 2)).filter(el=>!Number.isNaN(el))
+  return s.length > 0? Math.max(...s): "CHUCK SMASH!!"
+}
