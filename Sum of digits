@@ -1,0 +1,12 @@
+//https://www.codewars.com/kata/59cf805aaeb28438fe00001c
+function sum(num) {
+  if (num === undefined) return "";
+  num = "" + num;
+  let s = 0;
+  let str = '';
+  for (let el of num){
+    s += +el;
+    str += el + " + "
+  }
+  return str.slice(0, -2) + "= " + s;
+}
