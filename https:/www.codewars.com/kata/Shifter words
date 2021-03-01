@@ -1,0 +1,16 @@
+// https://www.codewars.com/kata/603b2bb1c7646d000f900083
+function shifter(s){
+  if (s === "") return 0;
+  let shift = 'HINOSXZMW';
+  s = s.split(" ");
+  let c = [];
+  let fl = 0
+  for (let word of s){
+    for (let letter of word){
+      if (!shift.includes(letter)) {fl = 1;}
+    }
+    if (fl === 0) c.push(word);
+    fl = 0;
+  }
+  return c.filter((el,i)=>c.indexOf(el) === i).length;
+}
