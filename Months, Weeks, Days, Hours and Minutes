@@ -1,0 +1,23 @@
+//https://www.codewars.com/kata/5b2a10fe9e40b9b43d00008c
+
+//Given a number of minutes, translate it into a readible human timestamp.
+//For example: 100 minutes equals "1 hour 40 minutes" And: 52874 minutes equals "1 month 1 week 1 day 17 hours 14 minutes"
+// Given that each month has 28 days.
+//The largest amount of minutes you'll have to test for is under a year so you'll have to translate it to Months, Weeks, Days, Hours and Minutes.
+
+
+function displayValue(value) {
+  let m = Math.trunc(value / (60 * 24 * 28));
+  let w = Math.trunc((value % (60 * 24 * 28)) / (60 * 24 * 7));
+  let d = Math.trunc((value % (60 * 24 * 28)) % (60 * 24 * 7) / (60 * 24))
+  let h = Math.trunc((value % (60 * 24 * 28)) % (60 * 24 * 7) % (60 * 24) / 60);
+  let min =  Math.trunc((value % (60 * 24 * 28)) % (60 * 24 * 7) % (60 * 24) % 60);
+  
+  let res = [m > 1? `${m} months`: m === 1? '1 month' : '', 
+             w > 1? `${w} weeks` : w === 1? '1 week'  : '',
+             d > 1? `${d} days`  : d === 1? '1 day'   : '', 
+             h > 1? `${h} hours`:  h === 1? '1 hour' : '',
+             min > 1? `${min} minutes`: min === 1? '1 minute' : '']
+  res = res.filter(el=>el!=="")
+  return res.join(" ")
+}
